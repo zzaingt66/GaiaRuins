@@ -7,8 +7,8 @@ public class GuiParams {
     public static final Color MAIN_COLOR_BRIGHT = Color.GRAY;
     public static final Color MAIN_COLOR_DARK = Color.DARK_GRAY;
     public static final Color HIGHLIGHT_COLOR = Color.YELLOW;
-    private static final int DEFAULT_WIDTH = 1920;
-    private static final int DEFAULT_HEIGHT = 980;
+    private static final int DEFAULT_WIDTH = 1280;
+    private static final int DEFAULT_HEIGHT = 720;
     public static final int WIDTH = DEFAULT_WIDTH;
     public static final int HEIGHT = DEFAULT_HEIGHT;
     //card
